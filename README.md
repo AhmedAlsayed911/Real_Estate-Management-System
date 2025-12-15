@@ -1,6 +1,9 @@
 # RentSystem API - Clean Architecture Implementation
 
-## 🚀 Live Repository
+## �‍💻 Developer
+**Ahmed Elsayed** - <a href="https://www.linkedin.com/in/ahmed-elsayed-969307375/" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">LinkedIn Profile</a>
+
+## �🚀 Live Repository
 **GitHub:** https://github.com/AhmedAlsayed911/Real_Estate-Management-System
 
 ## 📖 API Documentation & Testing
